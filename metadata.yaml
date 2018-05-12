@@ -1,0 +1,28 @@
+_repo: Profitable-Squab-Breeding_37901
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37901-h/imgs/cover.jpg
+creator:
+  author:
+    agent_name: Dare, Carl
+    gutenberg_agent_id: '39122'
+    url: http://www.gutenberg.org/2009/agents/39122
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Birds
+- Animal
+gutenberg_issued: '2011-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37901'
+  lccn: '14021595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pigeons'
+- !lcc 'SF'
+title: Profitable Squab Breeding
+url: http://www.gutenberg.org/ebooks/37901
